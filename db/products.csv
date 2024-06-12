@@ -1,0 +1,11 @@
+title,description,price,stock_quantity,category
+Product 1,Description for product 1,9.99,10,Category 1
+Product 2,Description for product 2,19.99,20,Category 2
+Product 3,Description for product 3,29.99,30,Category 3
+Product 4,Description for product 4,39.99,40,Category 1
+Product 5,Description for product 5,49.99,50,Category 2
+Product 6,Description for product 6,59.99,60,Category 3
+Product 7,Description for product 7,69.99,70,Category 1
+Product 8,Description for product 8,79.99,80,Category 2
+Product 9,Description for product 9,89.99,90,Category 3
+Product 10,Description for product 10,99.99,100,Category 1
